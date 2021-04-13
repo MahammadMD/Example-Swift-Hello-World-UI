@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HelloWorldSPM",
+        "repositoryURL": "https://github.com/MahammadMD/Example-Hello-World-SPM",
+        "state": {
+          "branch": "main",
+          "revision": "393913cdd317d371a8d1acf8a05fc4b3e0b284ef",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
